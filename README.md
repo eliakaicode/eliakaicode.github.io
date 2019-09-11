@@ -1,8 +1,8 @@
 # eliakaicode.github.io
 <html>
 	<head>
-		<meta charset="utf-8">
-<title>My first code!!</title>
+	<meta charset="utf-8">
+	<title> My first code!! </title>
 	</head>
 	<body>
 		<h1>P is for Praha</h1>
