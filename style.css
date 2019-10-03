@@ -1,0 +1,20 @@
+h1 {
+	text-align: center; font-size: 60px; color: #ed4a21;
+}
+body { background-color: #badde0;
+ }
+ h4 { 
+ 	text-align: center; font-size: 15px; color: #ffde59;
+ }
+.dog {
+	font-size: 20px; color: #ed4a21;
+}
+#cat {
+	color: #ffde59;
+}
+#iguana {
+	color: #f2821f;
+}
+.caption {
+	text-align: center; font-size: 15px; color: #2d4170;
+}
