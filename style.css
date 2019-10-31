@@ -1,20 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle&display=swap');
 h1 {
-	text-align: center; font-size: 60px; color: #ed4a21;
+	text-align: center; 
+	font-size: 60px; 
+	color: #daee95; 
+	font-family: 'News Cycle', sans-serif;
 }
-body { background-color: #badde0;
+body { background-color: #badde0; 
+	font-family: 'News Cycle', sans-serif;
  }
- h4 { 
- 	text-align: center; font-size: 15px; color: #ffde59;
- }
+h2#Elia {
+	color: #4e9fdd;
+
+}
+img#right {
+	float: right;
+	height: 425px;
+	width: 650px;
+	padding: 20px;
+}
+
+
+/*GRID: 2 columns */
+#smol {
+	border: solid 2px #bcfcf6;
+	text-align: center;
+	background-color: #daee95;
+}
+#biggie {
+	border: solid 3px #ed4a21;
+	text-align: center;
+	background-color: #4e9fdd
+}
+
+/*Other style*/
 .dog {
 	font-size: 20px; color: #ed4a21;
+}
+.margin {
+	margin-left: 100px;
+	margin-right: 100px;
 }
 #cat {
 	color: #ffde59;
 }
 #iguana {
-	color: #f2821f;
+	color: #9E3D64;
 }
 .caption {
 	text-align: center; font-size: 15px; color: #2d4170;
 }
+div.goals {
+	border: 2px green;
+	background-color: #badde0; 
+	font-family: 'News Cycle', sans-serif;
+}
+
+a.insta{
+	color: #badde0;
+}
+a.insta:link {
+	text-decoration: none;
+	color: #badde0;
+}
+a.insta:visited {
+	color: #e60ab1;
+	text-decoration: none;
+}
+a.insta:hover {
+	text-decoration: underline;
+	color: #9dff48;
+}
+a.insta:active {
+	color: #badde0;
+	text-decoration: none;
+}
+
+
