@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle&display=swap');
+body { 
+	background-color: #badde0; 
+	font-family: 'News Cycle', sans-serif;
+ }
+.dog {
+	font-size: 20px; color: #ed4a21;
+}
+.margin {
+	margin-left: 100px;
+	margin-right: 100px;
+}
